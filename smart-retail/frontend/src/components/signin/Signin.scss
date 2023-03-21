@@ -1,0 +1,99 @@
+.forgotPassword{
+    
+
+height: 19px;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.03em;
+
+/* Brand/Blue */
+color: #1C37C5;
+
+
+}
+
+.pass{
+    display: flex;
+    border-right:'transparent';
+}
+.passIcon{
+    height:54.5px;
+    border: 1px solid black;
+border-radius: .375rem;
+border-left: none;
+
+}
+.notShowPass,.showPass{
+  margin: 15px;
+
+}
+
+.warning{
+  color: red;
+}
+
+.errorIcon{
+  margin-bottom: 3px;
+}
+
+.passInfo{
+  // margin: 10% 10%;
+  padding: 10px;
+  margin-right: 20px;
+  position: absolute;
+  border-radius: 10px;
+  border: 0.3px solid black;
+  z-index: 2;
+  background-color: white;
+  
+}
+
+.passMessage{
+  z-index: 2;
+}
+
+.passInfoIcon{
+  font-size: 13px;
+  font-weight: 2000;
+}
+.signLink {
+  text-decoration: none;
+  color: #9C1C8F;
+
+}
+
+// #outlined-required,#outlined-adornment-password{
+//   margin-bottom: 10px !important;
+// }
+// .css-dmmspl-MuiFormGroup-root {
+//   margin-bottom: 30px !important;
+//   }
+// .MuiFormControl-root css-13sljp9{
+//   margin-bottom: 30px !important;
+// }
+.col-lg-12 {
+  margin-bottom: 18px !important;
+}
+
+#Name .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root, #Email .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 12px !important;
+}
+
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root {
+  border-radius: 12px !important;
+}
+
+.css-1v4ccyo, .css-1bn53lx {
+  border-radius: 12px !important;
+}
+
+
+
+.css-dmmspl-MuiFormGroup-root {
+ 
+  margin-bottom: 0 !important;
+  }

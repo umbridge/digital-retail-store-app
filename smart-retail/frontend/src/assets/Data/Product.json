@@ -1,0 +1,786 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "information": {
+        "name": "Adidas Plain Tshirt",
+        "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Adidas. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+        "category": "Tshirt",
+        "price": 1500
+      }
+    },
+    {
+      "id": 2,
+      "information": {
+        "name": "Puma Plain Tshirt",
+        "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Puma. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+        "category": "Tshirt",
+        "price": 2500
+      }
+    },
+    {
+      "id": 3,
+      "information": {
+        "name": "Reebok Plain Tshirt",
+        "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Reebok. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+        "category": "Tshirt",
+        "price": 1570
+      }
+    },
+    {
+      "id": 4,
+      "information": {
+        "name": "Levi Plain Tshirt",
+        "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Levi. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+        "category": "Tshirt",
+        "price": 2400
+      }
+    },
+    {
+        "id": 5,
+        "information": {
+          "name": "Adidas Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Adidas. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 1500
+        }
+      },
+      {
+        "id": 6,
+        "information": {
+          "name": "Puma Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Puma. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 2500
+        }
+      },
+      {
+        "id": 7,
+        "information": {
+          "name": "Reebok Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Reebok. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 1570
+        }
+      },
+      {
+        "id": 8,
+        "information": {
+          "name": "Levi Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Levi. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 2400
+        }
+      },
+      {
+        "id": 9,
+        "information": {
+          "name": "Adidas Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Adidas. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 1500
+        }
+      },
+      {
+        "id": 10,
+        "information": {
+          "name": "Puma Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Puma. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 2500
+        }
+      },
+      {
+        "id": 11,
+        "information": {
+          "name": "Reebok Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Reebok. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 1570
+        }
+      },
+      {
+        "id": 12,
+        "information": {
+          "name": "Levi Printed Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from Levi. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 2400
+        }
+      },
+      {
+        "id": 13,
+        "information": {
+          "name": "H&M Plain Tshirt",
+          "description": "Refresh your clothing with the awesome summer collection of Round Neck Tees from H&M. These t shirts are made of Bio wash Cotton and make a comfort wear for summers.",
+          "category": "Tshirt",
+          "price": 2000
+        }
+    }
+  ],
+  "variants": [
+    {
+        "product_id" : 1,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/1_Blue.png",
+        "price" : 1800,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 1,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/1_Purple.png",
+        "price" : 1900,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 1,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/1_Red.png",
+        "price" : 2000,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 2,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/2_Blue.png",
+        "price" : 800,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 2,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/2_Purple.png",
+        "price" : 900,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 2,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/2_Red.png",
+        "price" : 700,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 3,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/3_Blue.png",
+        "price" : 2800,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 3,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/3_Purple.png",
+        "price" : 2900,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 3,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/3_Red.png",
+        "price" : 3000,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 4,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/4_Blue.png",
+        "price" : 1100,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 4,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/4_Purple.png",
+        "price" : 1200,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 4,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/4_Red.png",
+        "price" : 1300,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 5,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/5_Blue.png",
+        "price" : 1800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 5,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/5_Purple.png",
+        "price" : 1900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 5,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/5_Red.png",
+        "price" : 2000,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 6,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/6_Blue.png",
+        "price" : 800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 6,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/6_Purple.png",
+        "price" : 900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 6,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/6_Red.png",
+        "price" : 700,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 7,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/7_Blue.png",
+        "price" : 2800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 7,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/7_Purple.png",
+        "price" : 2900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 7,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/7_Red.png",
+        "price" : 3000,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 8,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/8_Blue.png",
+        "price" : 1100,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 8,
+        "color" : "Purple",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/8_Purple.png",
+        "price" : 1200,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 8,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/8_Red.png",
+        "price" : 1300,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 9,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/9_Blue.png",
+        "price" : 1800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 9,
+        "color" : "Green",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/9_Green.png",
+        "price" : 1900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 9,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/9_Red.png",
+        "price" : 2000,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 10,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/10_Blue.png",
+        "price" : 800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 10,
+        "color" : "Green",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/10_Green.png",
+        "price" : 900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 10,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/10_Red.png",
+        "price" : 700,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 11,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/11_Blue.png",
+        "price" : 2800,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 11,
+        "color" : "Green",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/11_Green.png",
+        "price" : 2900,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 11,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/11_Red.png",
+        "price" : 3000,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 12,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/12_Blue.png",
+        "price" : 1100,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 12,
+        "color" : "Green",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/12_Green.png",
+        "price" : 1200,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 12,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/12_Red.png",
+        "price" : 1300,
+        "category":"Printed Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,Printed",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 13,
+        "color" : "Blue",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/13_Blue.png",
+        "price" : 2400,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,halfsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"1"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"22"},
+        {"size": "L", "quantity":"3"},
+        {"size": "XL", "quantity":"0"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       },
+       {
+        "product_id" : 13,
+        "color" : "Green",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/13_Green.png",
+        "price" : 2100,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"0"},
+        {"size": "S", "quantity":"0"},
+        {"size": "M", "quantity":"24"},
+        {"size": "L", "quantity":"5"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"3"}
+        ]
+        
+       },
+       {
+        "product_id" : 13,
+        "color" : "Red",
+        "image_url" : "https://d1s4g8fgvi279t.cloudfront.net/products/13_Red.png",
+        "price" : 2000,
+        "category":"Plain Tshirt",
+        "product_tag" : "male,roundneck,fullsleeve,plain",
+        "sizes" : [
+        {"size": "XS", "quantity":"15"},
+        {"size": "S", "quantity":"15"},
+        {"size": "M", "quantity":"20"},
+        {"size": "L", "quantity":"15"},
+        {"size": "XL", "quantity":"15"},
+        {"size": "XXL", "quantity":"15"}
+        ]
+        
+       }
+  ]
+}

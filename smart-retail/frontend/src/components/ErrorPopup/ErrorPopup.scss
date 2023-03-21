@@ -1,0 +1,69 @@
+#alert-dialog-description {
+    // position: absolute !important;
+    display: flex !important;
+    justify-content: center !important;
+    width: 264px !important;
+    height: 44px !important;
+
+
+    /* Paragraph/Paragraph - 16-24px */
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+    align-items: center !important;
+    text-align: center !important;
+    letter-spacing: -0.03em !important;
+
+    color: #000000 !important;
+
+
+}
+
+.errorWarnIcon {
+    color: red !important;
+    height: 55px !important;
+    width: 57px !important;
+
+}
+
+#alert-dialog-title {
+    // position: absolute !important;
+    display: flex !important;
+    justify-content: center !important;
+
+}
+
+.done {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 8px 76px 8px 73px !important;
+    gap: 8px v;
+
+    // position: absolute;
+    width: 100px !important;
+    height: 35px !important;
+
+
+    /* New/blue */
+    color: white !important;
+    background: #1C37C5 !important;
+    border-radius: 12px !important;
+}
+
+.roundDivError {
+    width: 64px !important;
+    height: 64px !important;
+    border-radius: 50% !important;
+
+    background: #FBCEB1 !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.okClose {
+    display: flex !important;
+    justify-content: center !important;
+}

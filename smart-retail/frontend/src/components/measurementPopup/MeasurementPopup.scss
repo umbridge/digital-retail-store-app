@@ -1,0 +1,145 @@
+.option1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    gap: 8px;
+
+    position: relative;
+    width: 100%;
+
+    /* New/blue */
+    background: #1C37C5;
+    border-radius: 12px;
+    margin: 0px 10px;
+}
+
+.option2 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    gap: 8px;
+
+    position: relative;
+
+
+    /* New/blue */
+    background: #fff;
+    border-radius: 12px;
+    border:1px solid #1C37C5;
+    margin: 0px 10px;
+    margin-bottom: 10px;
+}
+
+.option1Text {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    /* Neutral/White - 100 */
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.option2Text {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    /* New/blue */
+    color: #1C37C5;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.msgPopup {
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.03em;
+    padding: 0px 0px !important;
+    color: #000000 !important;
+}
+
+.warningIconMeasurement {
+    height: 55px;
+    width: 55px;
+}
+
+.rememberMsg {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    // margin: 8px;
+    color: #000000;
+}
+
+
+#changeMeasurement {
+    margin: 18px;
+    width: 24px;
+    height: 24px;
+
+
+    /* Neutral / Neutral 0 */
+    background: #FFFFFF;
+
+    /* Neutral / Neutral 5 */
+    border: 1px solid #CED4DA;
+    border-radius: 4px;
+}
+
+.css-ypiqx9-MuiDialogContent-root {
+    padding: 8px 10px !important;
+}
+
+.checkboxText{
+    display: inline;
+    bottom: 6px;
+    position: relative;
+}
+
+.css-bdhsul-MuiTypography-root-MuiDialogTitle-root {
+    padding: 8px 25px !important;
+}
+
+.css-1ty026z{
+    padding: 8px 20px !important;
+}

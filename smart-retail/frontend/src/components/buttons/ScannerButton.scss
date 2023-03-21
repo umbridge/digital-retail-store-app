@@ -1,0 +1,103 @@
+.homeButton {
+    display: flex;
+    align-items: center;
+    /* Rectangle 502 */
+    height: 70px;
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+    bottom: 0;
+    // box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    /* Neutral/White */
+    background: #FFFFFF;
+    z-index: 2;
+    position: fixed;
+    // border: 1px solid black;
+    // border-radius: 10px;
+    border: none;
+    // box-shadow: 10px 0px 5px #CCC;
+}
+
+.scannerButton {
+    /* Ellipse 1 */
+    display: flex;
+    margin: 62px;
+    justify-content: center;
+    width: 90px;
+    height: 90px;
+    margin-bottom: 143px;
+    padding: 0;
+    border-radius: 50%;
+    /* Neutral/White */
+
+    z-index: 2;
+    // border: 1px solid black;
+    // box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    // box-shadow: 0px 10px 5px #CCC;
+
+    background: #223598;
+    border: 8px solid #FFFFFF;
+}
+
+.b_scan {
+    height: 42px;
+    width: 42px;
+    margin: auto;
+    margin-top: 15px;
+    justify-content: center;
+
+    /* Neutral/Grey 40 */
+    color: white;
+    z-index: 2;
+}
+
+
+
+.b_home {
+    height: 40px;
+    width: 40px;
+    border-radius: 0px;
+    /* Brand/Blue */
+    color: #000E57;
+    z-index: 2;
+}
+
+
+
+.b_cart {
+    height: 40px;
+    width: 40px;
+    border-radius: 0px;
+    /* Neutral/Grey 40 */
+    color: #999999;
+    z-index: 2;
+}
+
+.b_cart:focus {
+    color: #000E57;
+}
+
+.buttons {
+
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+}
+
+.scanProduct {
+    position: absolute;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    color: #223598;
+    bottom: 5px;
+
+}

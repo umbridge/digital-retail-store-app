@@ -1,0 +1,40 @@
+.image-upload-instructions{
+    min-height: 800px;
+    width: 86%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.instructions-top-section{
+    font-style: normal;
+    color: #9C1C8F;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.instructions-bottom-section{
+    margin-top: 50px;
+}
+
+.instructions-proceed-button,.upload-image-button{
+    text-decoration: none;
+    height: 48px;
+    width: 95%;
+    margin: auto;
+    background-color: #1C37C5;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.upload-image-button{
+    background-color: #fff;
+    color: #1C37C5;
+    margin-top: 8px;
+}
+
+#upload{
+    display: none;
+}

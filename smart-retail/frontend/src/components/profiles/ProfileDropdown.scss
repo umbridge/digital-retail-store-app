@@ -1,0 +1,65 @@
+.profile-button {
+    position: absolute;
+    width: 100%;
+    //    left: 12px;
+    background-color: white !important;
+    color: #223598 !important;
+    font-size: 24px !important;
+    display: flex;
+    align-items: flex-start !important;
+
+    letter-spacing: -0.03em !important;
+
+    justify-content: flex-start !important;
+    line-height: 25px !important;
+    padding: 8px 0px 8px 16px;
+    font-weight: bold !important;
+    text-transform: uppercase !important;
+    // box-shadow: 0 8px 6px -6px grey !important;
+    border-bottom: 1px solid #E6E6E6 !important;
+    box-shadow: 0px 10px 10px rgba(28, 55, 197, 0.06) !important;
+
+}
+
+.menuItems {
+    font-weight: 400 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+
+    /* identical to box height */
+    display: flex !important;
+    align-items: center;
+    letter-spacing: -0.03em !important;
+
+
+    /* Neutral/Black */
+    color: #000000 !important;
+
+}
+
+.checkCircle {
+    color: #1C37C5 !important;
+    position: absolute !important;
+    right: 15px !important;
+    height: 20px!important;
+    width: 20px !important;
+}
+
+.deleteProfile {
+    position: absolute !important;
+    right: 15px !important;
+}
+
+.profileShowOptions {
+    position: absolute !important;
+    right: 25px !important;
+}
+
+.otherIcons{
+    height: 22px !important;
+    width: 20px !important;
+}
+
+.addProfile{
+    color:black;
+}

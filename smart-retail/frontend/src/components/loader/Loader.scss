@@ -1,0 +1,26 @@
+.loader{
+    display: flex !important;
+    position: fixed !important;
+    justify-content: center !important;
+    top:45%;
+    left:43%;
+    z-index: 5;
+    
+}
+.loaderText{
+    top:52%;
+    position: fixed !important;
+    justify-content: center !important;
+    color: #1C37C5;
+    font-weight: 800;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+}
+.loaderDiv{
+    height: 100%;
+    width: 100%;
+    z-index: 4;
+    position: fixed !important;
+    background-color: rgba(249, 249, 249, 0.73) !important;
+}
