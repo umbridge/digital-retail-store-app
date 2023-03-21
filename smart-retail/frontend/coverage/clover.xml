@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1676038204418" clover="3.2.0">
+  <project timestamp="1676038204418" name="All files">
+    <metrics statements="31" coveredstatements="28" conditionals="2" coveredconditionals="1" methods="15" coveredmethods="12" elements="48" coveredelements="41" complexity="0" loc="31" ncloc="31" packages="9" files="9" classes="9"/>
+    <package name="components.ImageUploadGuidelines">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ImageUploadGuidelines.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/components/ImageUploadGuidelines/ImageUploadGuidelines.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="32" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.loader">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Loader.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/components/loader/Loader.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.successPopUp">
+      <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="SuccessPopUp.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/components/successPopUp/SuccessPopUp.tsx">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.ProductDetailsPage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="ProductDetailPage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/ProductDetailsPage/ProductDetailPage.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.barcodepage">
+      <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <file name="barcodepage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/barcodepage/barcodepage.tsx">
+        <metrics statements="9" coveredstatements="7" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.forgetPasswordPage">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ForgetPassPage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/forgetPasswordPage/ForgetPassPage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.homepage">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Homepage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/homepage/Homepage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.modules.signin">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Signinpage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/modules/signin/Signinpage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.signup">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Signuppage.tsx" path="/home/apudubey/digitail/Hashedin-Relay/smart-retail/frontend/src/pages/signup/Signuppage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

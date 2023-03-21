@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/smartretail/static/css/main.ca7a30d0.css",
+    "main.js": "/smartretail/static/js/main.14ca780a.js",
+    "static/js/787.a82737a9.chunk.js": "/smartretail/static/js/787.a82737a9.chunk.js",
+    "static/media/c3.jpg": "/smartretail/static/media/c3.2b769a0bdc4b03e8e110.jpg",
+    "static/media/c1.jpg": "/smartretail/static/media/c1.ceff653b143c522ce666.jpg",
+    "static/media/c2.jpg": "/smartretail/static/media/c2.b49e97b5a6ec11c5ffe4.jpg",
+    "static/media/c4.jpg": "/smartretail/static/media/c4.431803515a94afd55568.jpg",
+    "static/media/posture.jpg": "/smartretail/static/media/posture.2d355f41138796ba5f46.jpg",
+    "static/media/pose.jpg": "/smartretail/static/media/pose.0f3210582bb49c9292c8.jpg",
+    "index.html": "/smartretail/index.html",
+    "main.ca7a30d0.css.map": "/smartretail/static/css/main.ca7a30d0.css.map",
+    "main.14ca780a.js.map": "/smartretail/static/js/main.14ca780a.js.map",
+    "787.a82737a9.chunk.js.map": "/smartretail/static/js/787.a82737a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca7a30d0.css",
+    "static/js/main.14ca780a.js"
+  ]
+}
