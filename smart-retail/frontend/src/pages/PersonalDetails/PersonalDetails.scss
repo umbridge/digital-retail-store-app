@@ -1,0 +1,131 @@
+.personal-details-page {
+    min-height: 800px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.personal-details-top-section {
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-between;
+    color: #1C37C5;
+}
+
+.personal-details-top-section>.left {
+    width: 5%;
+}
+
+.personal-details-top-section>.right {
+    width: 95%;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.personal-details-mid-section {
+    margin-top: 50px;
+
+    input {
+        height: 45px;
+        padding-left: 13px;
+        padding-right: 13px;
+        width: 100%;
+        margin-top: 3.5px;
+        border-radius: 4px;
+    }
+
+    p {
+        margin-top: 26px;
+    }
+}
+
+.gender-select-block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+}
+
+.gender-select-box {
+    width: 30%;
+    padding: 4px 0px;
+    text-align: center;
+    font-weight: 500;
+    color: black;
+    border: 1px solid #9C1C8F;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.gender-selected {
+    border-width: 3.8px;
+}
+
+.personal-details-bottom-section {
+    margin-top: 45px;
+}
+
+.personal-details-button {
+    margin-top: 16px;
+    height: 45px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.upload-image-button {
+    background-color: #fff;
+    color: #1C37C5;
+}
+
+.edit-info-button {
+    background-color: #1C37C5;
+    color: #fff;
+}
+
+.gender-disabled {
+    border-color: #999898b6;
+    color: #999898b6;
+}
+
+.guidelineText {
+   
+
+    /* Paragraph/Paragraph - 16-24px */
+    
+    font-style: normal;
+    font-weight: 380;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+
+    color: #000000;
+
+
+}
+.guidelines-tab-left{
+    font-weight: 600;
+    margin-top: 5px;
+    // text-transform:uppercase;
+}
+
+.remove-icon{
+    font-size: 20px !important;
+    width: 20px !important;
+}
+
+.guidelines-tab-right {
+    height: 20px;
+    width: 20px;
+}
+
+.virtual-tryon-img-title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    margin-bottom: 2px;
+    color: #1C37C5;
+}

@@ -1,0 +1,1 @@
+For different react modules/pages like dashboard, cart etc.

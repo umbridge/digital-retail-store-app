@@ -1,0 +1,146 @@
+.barcode-scanning-screen {
+    height: 800px;
+    width: 100%;
+
+    .head {
+        height: 88px;
+    }
+
+    .barcode-screen {
+        width: 100%;
+        height: 712px;
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        background-color: #FFFFFF;
+
+        .scan-product-heading {
+            position: fixed;
+            width: 100%;
+            height: 33px;
+            // top: 108px;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 33px;
+            align-items: center;
+            text-align: center;
+            letter-spacing: -0.03em;
+            font-variant: small-caps;
+            color: #1C37C5;
+            background-color: white;
+            z-index: 1;
+        }
+
+        .scan-section {
+            border-radius: 12px;
+            position: absolute;
+            width: 100%;
+            height: 639px;
+            top: 154px;
+            // background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            flex-direction: column;
+            justify-items: center;
+            z-index: 1;
+
+            // .scan-info {
+            //     // position: absolute;
+            //     // width: 100%;
+            //     // padding: 26px;
+            //     // font-weight: 400;
+            //     // font-size: 16px;
+            //     // line-height: 22px;
+            //     // letter-spacing: -0.03em;
+            //     // align-content: space-around;
+            //     // // background-color: rgba(0, 0, 0, 0.5);
+            //     // color: #FFFFFF;
+            //     background: #000 none repeat scroll 0 0;
+            //     color: tan;
+            //     font-weight: 600;
+            //     margin: 2rem 3rem 0;
+            //     mix-blend-mode: overlay;
+            //     padding: 5px 15px;
+            //     text-align: center;
+            // }
+
+            .barcode-reader {
+                position: absolute;
+                display: flex;
+                justify-content: center;
+                width: 100%;
+                height: 639px;
+            }
+
+        }
+
+        .scan-again {
+            position: absolute;
+            top: 300px;
+            width: 100%;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            .warning-icon {
+                position: absolute;
+                align-items: center;
+                // left: 41.11%;
+                // right: 41.11%;
+                // top: 27.38%;
+                bottom: 64.62%;
+                margin-bottom: 16px;
+            }
+
+            .txt {
+                position: absolute;
+                width: 312px;
+                height: 50px;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 25px;
+                text-align: center;
+                padding: 24px;
+                letter-spacing: -0.03em;
+                margin-top: 16px;
+                margin-bottom: 38px;
+                color: #000000;
+            }
+
+            .scan-btn {
+                box-sizing: border-box;
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                gap: 8px;
+                position: absolute;
+                width: 312px;
+                height: 48px;
+                top: 58px;
+                align-content: space-around;
+                background: #1C37C5;
+                /* Brand/Blue */
+
+                border: 1px solid #1C37C5;
+                border-radius: 12px;
+
+                .btn-txt {
+                    height: 25px;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 18px;
+                    line-height: 25px;
+                    display: flex;
+                    align-items: center;
+                    text-transform: uppercase;
+                    color: #FFFFFF;
+                    flex: none;
+                    order: 1;
+                    flex-grow: 0;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+.add-profile-page {
+    min-height: 100%;
+}
+
+.data-input-section {
+    width: 92%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.profile-tag {
+    display: flex;
+    justify-content: space-between;
+    // font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    /* identical to box height, or 89% */
+
+    align-items: center;
+    letter-spacing: -0.03em;
+
+    /* New/Purple */
+
+    color: #9C1C8F;
+}
+
+.collapsable {
+    margin-top: 0px;
+    // height: 0;
+    overflow: hidden;
+    transition: height 0.15s ease-in-out;
+}
+
+.profile-bottom-section {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 12px 0px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    background-color: #fff;
+}
+
+.profile-edit-info {
+    height: 48px;
+    width: 85%;
+    border-radius: 12px;
+    color: #fff;
+    background-color: #1C37C5;
+}
+
+.profile-measurement{
+    margin-top: 13px;
+}

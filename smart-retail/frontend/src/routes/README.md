@@ -1,0 +1,1 @@
+For all different types of routes.

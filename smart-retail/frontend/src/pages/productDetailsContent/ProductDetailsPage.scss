@@ -1,0 +1,299 @@
+.productDetailpage {
+    background-color: #fff;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    // padding-bottom: 80px;
+}
+
+
+
+.remove-icon-container {
+    text-align: center;
+    align-items: center;
+}
+
+.swipe-icon {
+    height: 3px;
+    width: 64px;
+    padding-top: 4px;
+    background-color: #1C37C5;
+    margin: auto;
+    border-radius: 3px;
+}
+
+.heading {
+    width: 80%;
+    // position: absolute;
+    padding: 25px 0 0;
+    height: 33px;
+    top: 20px;
+
+    /* Heading/Heading 2 - 24px */
+    // font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: -0.03em;
+    font-variant: small-caps;
+    display: flex;
+    justify-content: center;
+    color: #1C37C5;
+
+}
+
+
+.backLink {
+    width: 10%;
+    // position: absolute;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 20px 10px;
+    height: 20px;
+    color: black;
+}
+
+.backNav {
+    font-size: 30px;
+}
+
+.pi {
+    // position: absolute;
+    display: flex;
+    align-items: center;
+    width: 360px;
+    height: 450px;
+    z-index: 0;
+    padding: 10px;
+    margin: 10px;
+    top: 5%;
+    border: 1px solid #E6E6E6;
+}
+
+.productimg {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.productName {
+
+    // position: absolute;
+
+    display: flex;
+    padding: 0;
+    margin: 0;
+
+    /* Heading/Heading 3 - 18px */
+    // font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    margin-bottom: 3px;
+    color: #000000;
+}
+
+.productDetails {
+    // display: flex;
+    // position: absolute;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.price {
+    // position: absolute;
+
+    display: flex;
+
+    /* Caption/Caption large - 14px */
+    // font-family: 'Avenir Next';
+    // font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    letter-spacing: -0.03em;
+
+    color: #000000;
+    padding: 0;
+    margin: 0;
+
+
+}
+
+.mrp {
+    // position: absolute;
+
+    margin-bottom: 0;
+
+    /* Caption/Caption small - 10px */
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+
+    /* identical to box height */
+    letter-spacing: -0.03em;
+
+    color: #000000;
+    margin-left: 7px;
+    margin-top: 4px;
+}
+
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10%;
+}
+
+.heart-icon {
+    margin-top: 25px;
+}
+
+.like {
+
+    padding: 10px;
+    margin: 10px;
+
+
+    left: 80%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    // border: 0.1px solid #1C37C5;
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    background-color: #F3F3F3;
+}
+
+.heart {
+    color: #1C37C5;
+    height: 30px;
+    width: 30px;
+}
+
+.heartOutline {
+    color: #1C37C5;
+    height: 30px;
+    width: 30px;
+}
+
+.sizeChartLink {
+    // position: absolute;
+    padding: 0;
+    text-decoration-line: underline;
+    margin-left: 78%;
+    // left: 283px;
+    // top: 558px;
+
+    /* Heading/Heading 6 - 12px */
+    // font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: right;
+    letter-spacing: -0.03em;
+    font-variant: small-caps;
+
+    /* Brand/Blue */
+    color: #1C37C5;
+    left: 70%;
+    display: flex;
+    margin-bottom: 0%;
+
+
+}
+
+.desc {
+    padding: 0 15px;
+    margin-top: 9px;
+}
+
+.header {
+    display: flex;
+    margin-bottom: 9px;
+}
+
+.rupeeIcon {
+    margin-bottom: 5px;
+}
+
+.sizeChart {
+    top: 3%;
+    z-index: 4;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    position: absolute;
+    // position: relative;
+    width: 90%;
+    // height: 428px;
+    // height: 75%;
+    justify-content: center;
+    border: 1px solid #E6E6E6;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.closeChartIcon {
+    height: 20px;
+    width: 20px;
+
+    margin-left: 40%;
+}
+
+.chartLabel {
+    display: flex;
+    justify-content: space-between;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+    /* identical to box height */
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.css-ahj2mt-MuiTypography-root {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+
+}
+
+.qty_display{
+    margin-left: 10px;
+    padding-left: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 14px;
+    letter-spacing: -0.03em;
+    text-align: right;
+    
+    
+
+    /* Brand/Blue */
+    color: red;
+    // color: #9C1C8F;
+    display: flex;
+    margin-bottom: 0%;
+
+}
