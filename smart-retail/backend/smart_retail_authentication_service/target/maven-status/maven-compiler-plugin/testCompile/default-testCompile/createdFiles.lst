@@ -1,0 +1,3 @@
+com/example/SmartRetailAuthenticationService/service/EmailServiceTest.class
+com/example/SmartRetailAuthenticationService/service/JwtUserDetailsServiceTest.class
+com/example/SmartRetailAuthenticationService/service/CustomerServiceTest.class
